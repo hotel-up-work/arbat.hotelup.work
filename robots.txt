@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://arbat.chernivtsi.space/sitemap.xml
+Sitemap: https://arbat.hotelup.work/sitemap.xml

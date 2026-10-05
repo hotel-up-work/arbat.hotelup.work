@@ -1,6 +1,6 @@
 # Arbat
 
-Live site: https://arbat.chernivtsi.space
+Live site: https://arbat.hotelup.work
 
 ## About
 Arbat — готель у Чернівцях. Односторінковий лендинг. Фото закладу немає (`photos_source: null`), тому hero типографічний (CSS/SVG), а єдині фото — міста Чернівців з Pexels (див. Photos).
